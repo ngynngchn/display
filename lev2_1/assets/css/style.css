@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+article {
+  border: 1px solid #000;
+  width: 400px;
+  padding: 30px 15px;
+  margin: 10px;
+  display: inline-block;
+}
+
+article ul li {
+  list-style-type: none;
+  text-indent: 40px;
+}
+
+article h2 {
+  margin-bottom: 15px;
+}
